@@ -1,1 +1,2 @@
-# Learning_CSharp
+# learning-csharp
+for C#

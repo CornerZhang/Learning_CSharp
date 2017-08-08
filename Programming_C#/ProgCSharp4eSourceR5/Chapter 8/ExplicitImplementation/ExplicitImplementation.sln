@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitImplementation", "ExplicitImplementation\ExplicitImplementation.csproj", "{1CBFF9B7-B305-491F-9D87-2DF7B1194D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBFF9B7-B305-491F-9D87-2DF7B1194D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBFF9B7-B305-491F-9D87-2DF7B1194D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBFF9B7-B305-491F-9D87-2DF7B1194D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBFF9B7-B305-491F-9D87-2DF7B1194D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
